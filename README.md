@@ -96,8 +96,8 @@ A professional, Python-based tool designed for automating and improving content 
 - **Text Processing**: Regex-based normalization rules for Persian grammar and spelling.
 - **Directory Structure**:
   - Main script: `Persian Wikipedia Editor.py`
-  - Support files: `support` folder (contains `user-config.py`, `rls.json`, etc.)
-  - Database: `DB` folder (optional rule and category files)
+  - Support files: `support` folder (contains `user-config.py`)
+  - Database: `DB` folder (optional Edit rule and Category files)
   - Batch launcher: `Run_Persian_Wiki_Editor.bat` (in the main folder)
 - **License Type**: Freeware (Avarwand License)
 
